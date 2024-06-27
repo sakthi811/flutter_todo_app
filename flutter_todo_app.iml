@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/git_repo/flutter-my-business-card/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/git_repo/flutter-my-business-card/build" />
+      <excludeFolder url="file://$MODULE_DIR$/git_repo/flutter-my-business-card/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_flash_chat/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_flash_chat/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_flash_chat/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/git_repo/flutter-magic-ball/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/git_repo/flutter-magic-ball/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/git_repo/flutter-magic-ball/build" />
+      <excludeFolder url="file://$MODULE_DIR$/git_repo/flutter_chat_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/git_repo/flutter_chat_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/git_repo/flutter_chat_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/git_repo/flutter-weather-app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/git_repo/flutter-weather-app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/git_repo/flutter-weather-app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flash-chat-flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flash-chat-flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flash-chat-flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/git_repo/flutter-story-app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/git_repo/flutter-story-app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/git_repo/flutter-story-app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/git_repo/flutter-dicee-app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/git_repo/flutter-dicee-app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/git_repo/flutter-dicee-app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/git_repo/flutter_quiz_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/git_repo/flutter_quiz_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/git_repo/flutter_quiz_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/git_repo/flutter-xylophone/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/git_repo/flutter-xylophone/build" />
+      <excludeFolder url="file://$MODULE_DIR$/git_repo/flutter-xylophone/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/git_repo/flutter-bmi-calculator/build" />
+      <excludeFolder url="file://$MODULE_DIR$/git_repo/flutter-bmi-calculator/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/git_repo/flutter-bmi-calculator/.pub" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
