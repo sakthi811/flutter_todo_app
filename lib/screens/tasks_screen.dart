@@ -1,16 +1,32 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
+import '../widgets/custom_bottom_sheet.dart';
 import '../widgets/tasks_list.dart';
 
 class TasksScreen extends StatelessWidget {
+  Widget customBottomSheet(BuildContext context) {
+    return Container(
+      child: Center(child: Text('A custom bottom sheet')),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       floatingActionButton: FloatingActionButton(
         backgroundColor: Colors.lightBlueAccent,
         child: Icon(Icons.add),
-        onPressed: () {},
+        onPressed: () {
+          showModalBottomSheet(
+              context: context,
+              isScrollControlled: true,
+              builder: (context) => SingleChildScrollView(
+                  child: Container(
+                      padding: EdgeInsets.only(
+                          bottom: MediaQuery.of(context).viewInsets.bottom),
+                      child: CustomBottomSheet())));
+        },
       ),
       backgroundColor: Colors.lightBlueAccent,
       body: Column(
